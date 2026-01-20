@@ -41,3 +41,34 @@ Image-Classification-Using-CNN/
 ├── requirements.txt
 
 └── README.md
+
+🧠 Model Details
+
+** Convolutional Layers
+
+** Max Pooling
+
+** Dropout
+
+** Fully Connected (Dense) Layers
+
+** Softmax Activation for Classification
+
+📊 Output
+
+The model predicts the class of an input image and displays the confidence score.
+
+🚀 Future Enhancements
+
+* Add Transfer Learning (VGG16, ResNet, MobileNet)
+
+* Improve accuracy with data augmentation
+
+* Deploy using Flask or Streamlit
+
+* Convert to a real-time web application
+
+👨‍💻 Author
+
+PranjalSabhaya, Maulik Gajera ,  Mahek Radadiya and Khushi Sheladiya
+Machine Learning & Data Science Student
