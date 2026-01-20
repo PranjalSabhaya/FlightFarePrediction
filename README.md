@@ -68,6 +68,10 @@ The model predicts the class of an input image and displays the confidence score
 
 * Convert to a real-time web application
 
+📈 Results
+
+The trained model achieves good accuracy on validation data and can classify unseen images effectively.
+
 👨‍💻 Author
 
 PranjalSabhaya, Maulik Gajera ,  Mahek Radadiya and Khushi Sheladiya
