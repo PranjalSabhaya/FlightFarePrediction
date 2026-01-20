@@ -44,15 +44,15 @@ Image-Classification-Using-CNN/
 
 🧠 Model Details
 
-** Convolutional Layers
+* Convolutional Layers
 
-** Max Pooling
+* Max Pooling
 
-** Dropout
+* Dropout
 
-** Fully Connected (Dense) Layers
+* Fully Connected (Dense) Layers
 
-** Softmax Activation for Classification
+* Softmax Activation for Classification
 
 📊 Output
 
@@ -71,4 +71,5 @@ The model predicts the class of an input image and displays the confidence score
 👨‍💻 Author
 
 PranjalSabhaya, Maulik Gajera ,  Mahek Radadiya and Khushi Sheladiya
+
 Machine Learning & Data Science Student
