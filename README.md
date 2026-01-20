@@ -23,13 +23,21 @@ Image classification is a core task in computer vision where an input image is a
 ## 📁 Project Structure
 Image-Classification-Using-CNN/
 │
+
 ├── dataset/
+
 │ ├── train/
+
 │ └── test/
+
 │
 ├── Project-copy.ipynb
+
 ├── model/
+
 │ └── cnn_model.h5
 │
+
 ├── requirements.txt
+
 └── README.md
