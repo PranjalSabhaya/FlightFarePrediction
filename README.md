@@ -76,4 +76,4 @@ The trained model achieves good accuracy on validation data and can classify uns
 
 PranjalSabhaya, Maulik Gajera ,  Mahek Radadiya and Khushi Sheladiya
 
-Machine Learning & Data Science Student
+Machine Learning & Data Science 
